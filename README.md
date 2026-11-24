@@ -13,7 +13,14 @@
 **Currently hyperfocused on:** Currently building full-stack applications, exploring AI-powered solutions, contributing to open-source projects, and strengthening my problem-solving skills.
 
 
+#### Comp script
 
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/breakdown-script-dark.svg">
+  <img alt="Comp script: the last year is the background plate, frames 1001 to 1365, with Supportassistant, contestpulse, chatrandoms, Hivemind-ai merged over it, then graded, written out as v160 and viewed. Render log: 1,361 contributions on 160 active days, longest streak 14 days, longest break 65 days, peak day November 17 with 47, 2 followers, 1 stars, on GitHub since 2025. Languages: HTML 58%, TypeScript 24%, JavaScript 11%, Jupyter Notebook 3%, Python 2%, CSS 1%." src="./assets/breakdown-script-light.svg" width="100%">
+</picture>
+</p>
 
 #### Open tabs
 
